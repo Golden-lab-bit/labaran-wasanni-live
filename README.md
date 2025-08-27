@@ -24,13 +24,14 @@
   </style>
 </head>
 <body>
-    <h1>Golden E-sport</h1>
   </header><div class="navbar">
-    <div class="main navbar"></div> <!-- -->
+    <div class="menu-icon"></div> <!-- Hamburger menu -->
     <a href="https://golden-lab-bit.github.io/Labaran-wasanni/">Labaran Wasanni</a>
     <a href="https://golden-lab-bit.github.io/labaran-wasanni-live/">Kai Tsaye(live)</a>
     <a href="https://golden-lab-bit.github.io/labaran-wasanni-fixtures/">Fixtures</a>
  </div>
+ <h1>Golden E-SPORT</h1>
  <h2>WATCH LIVE HERE NOW</h2>
+ 
   <iframe width="350" height="315" src="https://www.youtube.com/embed/ysO2aV1JLCs?si=yugVC79pivmlTBRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
   <footer>THANKS FOR WATCHING</footer>

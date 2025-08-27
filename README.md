@@ -5,26 +5,35 @@
   <title>Golden-e-sport</title>
   <style>
     body { margin: 0; font-family: Arial; }
-    }
-   .navbar {
+
+    .navbar {
       display: flex;
       background-color: #f2f2f2;
       overflow-x: auto;
       white-space: nowrap;
     }
-     .navbar a {
+
+    .navbar a {
       display: inline-block;
-      color: GoLD;
+      color: gold;
       padding: 14px 20px;
       text-decoration: none;
     }
+
     .navbar a:hover {
       background-color: black;
+    }
+
+    .menu-icon {
+      padding: 14px 20px;
+      font-size: 20px;
+      cursor: pointer;
     }
   </style>
 </head>
 <body>
-  </header><div class="navbar">
+
+  <div class="navbar">
     <div class="menu-icon"></div> <!-- Hamburger menu -->
     <a href="https://golden-lab-bit.github.io/Labaran-wasanni/">Labaran Wasanni</a>
     <a href="https://golden-lab-bit.github.io/labaran-wasanni-live/">Kai Tsaye(live)</a>
